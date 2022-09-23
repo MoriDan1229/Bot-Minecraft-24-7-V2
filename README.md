@@ -6,7 +6,7 @@
 
 ## Links necesarios:
 
-GitHub: https://github.com/MoriDan1229/BotMinecraft24-7
+GitHub: https://github.com/MoriDan1229/Bot-Minecraft-24-7-V2
 
 Replit: https://replit.com/~
 
