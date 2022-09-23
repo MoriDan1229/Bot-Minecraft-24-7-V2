@@ -11,9 +11,9 @@ Para los que quieran saber como se usa el bot vayan a mi video actualizado para 
 7. Por ultimo le dan a Run y su bot ya estaria en funcionamiento
 
 
-## Video Tutorial:
+## Video Tutorial(aun no subido):
 
-[<img src="https://media.discordapp.net/attachments/831393456811147295/943260686107177020/maxresdefault.jpg?width=760&height=427">](https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g)
+[<img src="")
 
 ## Links necesarios:
 
